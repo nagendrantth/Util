@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">SampleUtil</string>
+    <string name="app_name">Util Sample</string>
+
+    <string name="menu_one">One</string>
+    <string name="menu_two">Two</string>
+    <string name="menu_three">Three</string>
 </resources>
